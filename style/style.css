@@ -15,7 +15,9 @@ p
   line-height: 1.7em;}
 
 img
-{ border: 0;}
+{ border: 0;
+  width: 100%;
+  height: auto;}
 
 h1, h2, h3, h4, h5, h6 
 { color: #E7746F;
